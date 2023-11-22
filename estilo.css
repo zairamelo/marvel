@@ -1,9 +1,12 @@
 body{
 background-color: rgb(226, 43, 43);
 color: aliceblue ;
+font-family: 'Playfair Display', serif;
 }
 
 h1{
 color:black
+font-size: 40px
+
 
 }
