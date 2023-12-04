@@ -24,3 +24,6 @@ font-weight: 200;
 #conteudo{
 display: flex;
 }
+#imagem1{
+width: 30%;
+}
